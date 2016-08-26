@@ -6,8 +6,8 @@ long_description = open('README.txt').read()
 
 setup(
     name='XStatic-angular-ui-router',
-    summary="""angular-ui-router 0.3.1 (XStatic packaging standard)""",
-    description=long_description,
+    description="""angular-ui-router 0.3.1 (XStatic packaging standard)""",
+    long_description=long_description,
     maintainer="Richard Jones",
     maintainer_email='r1chardj0n3s@gmail.com',
     use_scm_version=True,
