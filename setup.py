@@ -11,7 +11,7 @@ setup(
     maintainer="Richard Jones",
     maintainer_email='r1chardj0n3s@gmail.com',
     use_scm_version=True,
-    setup_requires=['setuptools_scm', 'wheel'],
+    setup_requires=['setuptools_scm'],
     packages=find_packages(),
     include_package_data=True
 )
