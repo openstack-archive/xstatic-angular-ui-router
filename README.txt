@@ -1,14 +1,10 @@
+This project is no longer maintained.
 
-XStatic-angular-ui-router
--------------------------
+The contents of this repository are still available in the Git
+source code management system.  To see the contents of this
+repository before it reached its end of life, please check out the
+previous commit with "git checkout HEAD^1".
 
-angular-ui-router javascript library packaged for setuptools (easy_install) / pip.
-
-This package is intended to be used by **any** project that needs these files.
-
-It intentionally does **not** provide any extra code except some metadata
-**nor** has any extra requirements. You MAY use some minimal support code from
-the XStatic base package, if you like.
-
-You can find more info about the xstatic packaging way in the package
-`XStatic`.
+For any further questions, please email
+openstack-discuss@lists.openstack.org or join #openstack-horizon on
+Freenode.
